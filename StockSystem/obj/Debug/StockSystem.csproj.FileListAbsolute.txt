@@ -1,0 +1,13 @@
+C:\StockSystem\StockSystem\bin\Debug\StockSystem.exe.config
+C:\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+C:\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.csproj.AssemblyReference.cache
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.AddStock.resources
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.ChangeStock.resources
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.Properties.Resources.resources
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.SerchStock.resources
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.StockSystemForm.resources
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.csproj.GenerateResource.cache
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.csproj.CoreCompileInputs.cache
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.exe
+C:\StockSystem\StockSystem\obj\Debug\StockSystem.pdb
